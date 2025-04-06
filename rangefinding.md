@@ -23,5 +23,5 @@ depth_map = np.uint8(depth_map)
 # Display the depth map
 cv2.imshow("Depth Map", depth_map)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() 
  
